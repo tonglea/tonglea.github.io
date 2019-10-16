@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tonglea"
 description              : "This is my pesonal blog."
-url                      : "https://mmistakes.github.io"
+url                      : "https://tonglea.github.io"
 baseurl                  : "/"
 repository               : "tonglea/tonglea.github.com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
