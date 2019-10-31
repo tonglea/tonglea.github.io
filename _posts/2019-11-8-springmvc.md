@@ -4,6 +4,9 @@ categories:
   - spring
 tags:
   - spring
+toc: true
+toc_label: "文章目录"
+
 ---
 
 # SpringMVC总结
